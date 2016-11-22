@@ -8,6 +8,7 @@
     "font",
     "icon"
   ],
+  "main": "css/paymentfont.css",
   "homepage": "http://paymentfont.io/",
   "bugs": {
     "url" : "http://github.com/angularclass/payment-font/issues"
