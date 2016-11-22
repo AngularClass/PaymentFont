@@ -1,0 +1,29 @@
+{
+  "name": "@angularclass/payment-font",
+  "description": "PaymentFont - A sleek webfont containing icons of all main payment operators and methods",
+  "version": "1.1.3",
+  "keywords": [
+    "payment",
+    "webfont",
+    "font",
+    "icon"
+  ],
+  "homepage": "http://paymentfont.io/",
+  "bugs": {
+    "url" : "http://github.com/angularclass/payment-font/issues"
+  },
+  "author": {
+    "name": "AngularClass"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/angularclass/payment-font.git"
+  },
+  "contributors": [],
+  "dependencies": {
+  },
+  "engines" : {
+    "node" : ">=0.10.3"
+  },
+  "license" : "(OFL-1.1 OR MIT OR CC-BY-3.0)"
+}
